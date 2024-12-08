@@ -154,7 +154,7 @@
 | 전성모 (FRONT) | 권성민 (FRONT) | 이윤주 (FRONT) |
 | --- | --- | --- | 
 | <img src="https://avatars.githubusercontent.com/u/136889446?v=4" width="300" height="300"/>|<img src="https://avatars.githubusercontent.com/u/42410000?v=4" width="300" height="300"/>|<img src="https://avatars.githubusercontent.com/u/114348883?v=4" width="300" height="300"/>
-| [@MilleZoo](https://github.com/MilleZoo) |  [@kwonja](https://github.com/kwonja) | [@yujachaa](https://github.com/yujachaa) |
+| [@jeonsm22](https://github.com/jeonsm22) |  [@kwonja](https://github.com/kwonja) | [@yujachaa](https://github.com/yujachaa) |
 
 | 윤여준 (BACK) | 이서영 (BACK) | 허지영 (BACK) |
 | --- | --- | --- |
